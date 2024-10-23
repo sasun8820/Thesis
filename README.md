@@ -8,14 +8,12 @@
   
 - Currently, there is an ongoing medical student strike in South Korea, which poses a serious threat to national public health resources and their availability. This situation highlights the importance of accurate forecasting to better manage and allocate healthcare resources in times of crisis.
 
-## Literature
-
 ## Methodology 
 
 ## Data 
 
 ## Limitation 
 
-## Resources
+## Resources 
 
-## References 
+## References (Literature) 
